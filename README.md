@@ -3,7 +3,7 @@
 - 󠁧󠁢💻 i'm a software engineer from the united kingdom (liverpool).
 - 📃 graduated with a masters in computing from [university of central lancashire](https://www.uclan.ac.uk/)
 - 🏠 fully-remote and loving it
-- 🏢 xr developer employed by [@nudge-reality](https://nudgereality.com)
+- 🏢 software developer employed by [@NewOrbit](https://neworbit.co.uk)
 - ✨ passions include programming, music, photography, gaming (especially dnd)
 <!--
 **d-blackburn/d-blackburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
